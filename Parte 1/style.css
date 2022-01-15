@@ -28,6 +28,11 @@ nav a {
     font-weight: bold;
 }
 
+nav a:hover {
+    color: #C78C19;
+    text-decoration: underline;
+}
+
 h2 {
     font-size: 30px;
     font-weight: bold;
